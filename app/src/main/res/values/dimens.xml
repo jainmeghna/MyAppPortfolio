@@ -1,0 +1,16 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <!-- PortfolioActivity margin and padding -->
+    <dimen name="padding_16">16dp</dimen>
+    <dimen name="paddind_20">24dp</dimen>
+    <dimen name="margin_10">10dp</dimen>
+    <dimen name="margin_20">20dp</dimen>
+
+
+    <!-- Portfolio Activity text size -->
+    <dimen name="titleTextSize">24sp</dimen>
+    <dimen name="catagoryTextSiize">18sp</dimen>
+</resources>
